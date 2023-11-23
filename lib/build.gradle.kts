@@ -11,6 +11,8 @@ plugins {
     `maven-publish`
 }
 
+version = "0.1.0"
+
 repositories {
     // Use Maven Central for resolving dependencies.
     mavenCentral()
