@@ -11,4 +11,5 @@ plugins {
 }
 
 rootProject.name = "expert-potato"
+version '1.0.0'
 include("lib")
