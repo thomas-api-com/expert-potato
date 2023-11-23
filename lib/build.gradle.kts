@@ -45,7 +45,7 @@ publishing {
     repositories {
         maven {
             name = "GitHubPackages"
-            url = "https://maven.pkg.github.com/thomas-api-com/expert-potato"
+            url = uri("https://maven.pkg.github.com/thomas-api-com/expert-potato")
             credentials {
                 username = System.getenv("GITHUB_ACTOR")
                 password = System.getenv("GITHUB_TOKEN")
