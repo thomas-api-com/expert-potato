@@ -3,7 +3,7 @@
  */
 package com.api.thomas;
 
-public final class Library {
+public final class CATLib {
     
     public boolean someLibraryMethod() {
         return true;
