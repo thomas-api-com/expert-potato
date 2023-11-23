@@ -11,6 +11,9 @@ plugins {
     `maven-publish`
 }
 
+archivesBaseName = 'CAT-Lib'
+version '1.0.0'
+
 repositories {
     // Use Maven Central for resolving dependencies.
     mavenCentral()
