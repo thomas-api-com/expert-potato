@@ -11,7 +11,6 @@ plugins {
     `maven-publish`
 }
 
-archivesBaseName = "CAT-Lib"
 version "1.0.0"
 
 repositories {
