@@ -3,7 +3,8 @@
  */
 package com.api.thomas;
 
-public class Library {
+public final class Library {
+    
     public boolean someLibraryMethod() {
         return true;
     }
